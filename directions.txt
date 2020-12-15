@@ -48,7 +48,7 @@ add these lines to the bottom:
 
 Next, rename app/assets/stylesheets/application.css to application.css.scss.
 Take the = sign out of the line that says require font-awesome, as we are going
-to import it. Then add all the lines in application.cssaddition to
+to import it. Then add all the lines in application.css addition to
 application.css.scss. This includes some @import statements, which are the
 important ones, plus customization of the bootstrap appearance with new styles.
 
